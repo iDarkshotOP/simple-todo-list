@@ -13,7 +13,7 @@ A basic console-based To-Do List application in Python. Add tasks, view the task
 
 ## Usage
 
-1. Run the `todo_app.py` script.
+1. Run the `main.py` script.
 2. Choose from the available options to add tasks, view tasks, mark tasks as completed, or quit the app.
 
 ## Example
